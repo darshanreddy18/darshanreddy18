@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Darshan H S 👋<br><br>🚀 Aspiring DevOps Engineer<br>🎓 BCA Graduate<br>🌱 Currently learning Linux, Git, GitHub, AWS, Docker, Kubernetes, Jenkins & CI/CD<br>💻 Building projects and improving my skills every day
+# 💫 About Me:Darshan H S
+# Hi, <br><br>🚀 Aspiring DevOps Engineer<br>🎓 BCA Graduate<br>🌱 Currently learning Linux, Git, GitHub, AWS, Docker, Kubernetes, Jenkins & CI/CD<br>💻 Building projects and improving my skills every day
 
 
 ## 🌐 Socials:
